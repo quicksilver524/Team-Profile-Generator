@@ -10,6 +10,7 @@ body {
 .header-wrapper {
   display: flex;
   justify-content: center;
+  background-color: teal;
 }
 h1 {
   font-size: 50px;
