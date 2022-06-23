@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #21209c;
+  background-color: #34cee287;
   color: #23120b;
 }
 .header-wrapper {
@@ -12,13 +12,13 @@ body {
   justify-content: center;
 }
 h1 {
-  font-size: 3rem;
-  color: #fdb827;
-  border-bottom: 1px solid #fdb827;
+  font-size: 50px;
+  color: #000000;
+  border-bottom: 3px solid #000000;
   margin-bottom: 25px;
 }
 
-.grid {
+.Cards {
   display: grid;
   grid-column-gap: 50px;
   grid-row-gap: 50px;
@@ -26,33 +26,37 @@ h1 {
   justify-content: center;
 }
 
-.grid div {
+.Cards div {
   border: 1px solid black;
   border-radius: 5px;
   padding: 10px;
   margin: 20px;
   text-align: center;
-  background-color: #fdb827;
+  background-color: #5581e9;
   width: 30vh;
 }
 
-.grid div h2 {
+.Cards div h2 {
   border-bottom: 1px solid black;
   padding-bottom: 5px;
   margin-bottom: 2px;
 }
 
-.grid div h3,
-.grid div p {
+.Cards div p {
   padding-bottom: 5px;
 }
 
+.click:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
 @media screen and (max-width: 800px) {
-  .grid {
+  .Cards {
     grid-template-columns: auto;
     grid-row-gap: 10px;
   }
-  .grid div {
+  .Cards div {
     width: 50vh;
   }
 }
