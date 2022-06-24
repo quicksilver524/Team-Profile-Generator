@@ -11,16 +11,16 @@
 https://user-images.githubusercontent.com/102430476/175434588-6785695e-b0b1-42de-a02b-60c8fe373df5.mp4
 
 # Open New terminal within VS code or cmdline: 
-![Picture 1](./assets/ss-1.png)
+![Picture 1](./assets/images/ss-1.png)
 
 # Type "node index" within VS code or cmdline: 
-![Picture 2](./assets/ss-2.png)
+![Picture 2](./assets/images/ss-2.png)
 
 # Answer questions within VS code or cmdline to produce *Team-Profile*: 
-![Picture 3](./assets/ss-3.png)
+![Picture 3](./assets/images/ss-3.png)
 
 # Right click index.html "default browser" within VS code: 
-![Picture 4](./assets/ss-4.png)
+![Picture 4](./assets/images/ss-4.png)
 
 # View html within default browser: 
-![Picture 4](./assets/ss-5.png)
+![Picture 4](./assets/images/ss-5.png)
