@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/102430476/175434588-6785695e-b0b1-42de
 # Open New terminal within VS code or cmdline: 
 ![Picture 1](./assets/ss-1.png)
 
-# Type "node index within VS code or cmdline: 
+# Type "node index" within VS code or cmdline: 
 ![Picture 2](./assets/ss-2.png)
 
 # Answer questions within VS code or cmdline to produce *Team-Profile*: 
