@@ -21,3 +21,6 @@ https://user-images.githubusercontent.com/102430476/175434588-6785695e-b0b1-42de
 
 # Right click index.html "default browser" within VS code: 
 ![Picture 4](./assets/ss-4.png)
+
+# View html within default browser: 
+![Picture 4](./assets/ss-5.png)
